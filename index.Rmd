@@ -1,30 +1,107 @@
 ---
-title: "Test website"
-author: "David Robertson"
-date: "2024-07-10"
-output: html_document
+title: |  
+    | Adaptive Designs and Multiple Testing Procedures Workshop
+    | 26th - 27th February 2025
+output:
+  html_document:
+    theme: cosmo
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style> 
+
+<style>
+.sponsor {
+  display: inline-block;
+  margin: 10px;
+}
+
+.sponsor img {
+  max-width: 100%;
+  height: auto;
+}
+
+.organizers {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #ADD8E6 
+}
+
+</style>
+
+```{=html}
+<head>
+<title>ADMTP2025</title>
+</head>
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r echo=FALSE}
+# https://stackoverflow.com/questions/61313078/create-a-carousel-in-rmarkdown
+objpath <- file.path(getwd(),"images/carousel_home")
+slickR::slickR(
+    list.files(objpath,full.names = TRUE,pattern = 'jpg'),
+    height = 350,
+    width = '95%')
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
+<br>
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS).
+
+**Where:** Regensburg, Germany. The workshop will be an in-person event, with no option to participate virtually.
+
+**When:** The workshop will run from 26th-27th February 2025.
+
+<!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on XXX. -->
+
+
+**Short course:** There will be a short course on *Bayesian Adaptive Trials* from 24th-25th February 2025. 
+
+**Abstract submission** Submission of abstracts will close on 20th December 2024.
+
+**Registration:** Details TBC.
+
+**Scientific and Organising Committee:** David Robertson (MRC Biostatistics Unit, University of Cambridge), Thomas Jaki (University of Regensburg and MRC Biostatistics Unit, University of Cambridge)
+
+**Contact:** If you have any questions about the workshop, please e-mail [David Robertson](mailto:david.robertson@mrc-bsu.cam.ac.uk).
+
+
+**ORGANIZED BY**:
+
+```{=html}
+<div class="organizers">
+    <div class="sponsor">
+        <a href="https://www.ibs-roes.org/"; target=_blank">
+        <img src="logos/ROeS.png" alt="ROeS" width="160">
+        </a>
+    </div>
+    <div class="sponsor">
+        <a href="http://www.biometrische-gesellschaft.de/en/home.html"; target=_blank">
+        <img src="logos/IBS_DR.PNG" alt="IBS" width="145">
+        </a>
+    </div>
+    <div class="sponsor">
+        <a href="https://www.uni-regensburg.de/en"; target=_blank">
+        <img src="logos/UR.png" alt="UR" width="320">
+        </a>
+    </div>
+    <div class="sponsor">
+        <a href="https://www.uni-regensburg.de/informatics-data-science/faculty/home/index.html"; target=_blank">
+        <img src="logos/FIDS.png" alt="FIDS" width="145">
+        </a>
+    </div>
+</div>
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
