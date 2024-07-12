@@ -73,9 +73,9 @@ We are delighted to announce the next annual workshop of the joint working group
 <!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on XXX. -->
 
 
-**Short course:** There will be a short course on *Bayesian Adaptive Trials* from 24th-25th February 2025. 
+**Short course:** There will be a pre-workshop short course on *Bayesian Adaptive Trials* from 24th-25th February 2025. 
 
-**Abstract submission** Submission of abstracts will close in December 2024 (date TBC).
+**Abstract submission:** Submission of abstracts will close in December 2024 (date TBC).
 
 **Registration:** Details TBC.
 
