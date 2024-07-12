@@ -1,7 +1,6 @@
 ---
-title: |  
-    | Adaptive Designs and Multiple Testing Procedures Workshop
-    | 26th - 27th February 2025
+title: "ADMTP Workshop 2025"
+subtitle: "Adaptive Designs and Multiple Testing Procedures Workshop <br> 26th - 27th February 2025"
 output:
   html_document:
     theme: cosmo
@@ -9,6 +8,12 @@ output:
 
 <style type="text/css">
 h1.title {
+  display: none;
+}
+</style>
+
+<style type="text/css">
+.subtitle {
   font-size: 36px;
   color: DarkRed;
   text-align: center;
@@ -52,7 +57,7 @@ h1.title {
 objpath <- file.path(getwd(),"images/carousel_home")
 slickR::slickR(
     list.files(objpath,full.names = TRUE,pattern = 'jpg'),
-    height = 350,
+    height = 300,
     width = '95%')
 ```
 
@@ -100,7 +105,7 @@ We are delighted to announce the next annual workshop of the joint working group
     </div>
     <div class="sponsor">
         <a href="https://www.uni-regensburg.de/informatics-data-science/faculty/home/index.html"; target=_blank">
-        <img src="logos/FIDS.png" alt="FIDS" width="145">
+        <img src="logos/FIDS.png" alt="FIDS" width="120">
         </a>
     </div>
 </div>
