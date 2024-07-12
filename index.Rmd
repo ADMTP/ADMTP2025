@@ -57,7 +57,7 @@ h1.title {
 objpath <- file.path(getwd(),"images/carousel_home")
 slickR::slickR(
     list.files(objpath,full.names = TRUE,pattern = 'jpg'),
-    height = 300,
+    height = 250,
     width = '95%')
 ```
 
@@ -100,7 +100,7 @@ We are delighted to announce the next annual workshop of the joint working group
     </div>
     <div class="sponsor">
         <a href="https://www.uni-regensburg.de/en"; target=_blank">
-        <img src="logos/UR.png" alt="UR" width="320">
+        <img src="logos/UR.png" alt="UR" width="250">
         </a>
     </div>
     <div class="sponsor">
