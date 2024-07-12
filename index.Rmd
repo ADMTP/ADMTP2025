@@ -84,7 +84,11 @@ We are delighted to announce the next annual workshop of the joint working group
 **Contact:** If you have any questions about the workshop, please e-mail [David Robertson](mailto:david.robertson@mrc-bsu.cam.ac.uk).
 
 
-**ORGANIZED BY**:
+$$\\[0.1cm]$$
+
+### Organizers
+
+<hr>
 
 ```{=html}
 <div class="organizers">
