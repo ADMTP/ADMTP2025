@@ -66,7 +66,7 @@ slickR::slickR(
 
 We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS).
 
-**Where:** Regensburg, Germany. The workshop will be an in-person event, with no option to participate virtually.
+**Where:** Regensburg, Germany (in-person only).
 
 **When:** The workshop will run from 26th-27th February 2025.
 
@@ -75,7 +75,7 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **Short course:** There will be a short course on *Bayesian Adaptive Trials* from 24th-25th February 2025. 
 
-**Abstract submission** Submission of abstracts will close on 20th December 2024.
+**Abstract submission** Submission of abstracts will close in December 2024 (date TBC).
 
 **Registration:** Details TBC.
 
