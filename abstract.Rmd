@@ -56,7 +56,7 @@ For the ADMTP Workshop 2025, we welcome contributions to any of the following st
 
 </ol><br>
 <!-- -->
-In the abstract submission process, authors are requested to select up to three methodological topics and one application area from the list above that are most relevant to the abstract. The number of oral abstract submissions with the same presenting author is limited to three (i.e., one max for each stream).
+In the abstract submission process, authors are requested to select one of the  streams from this list that are most relevant to the abstract. The number of oral abstract submissions with the same presenting author is limited to three (i.e., one max for each stream).
 
 All abstracts must be submitted online using the link above. Each abstract submission must include the title, list of authors with affiliations and abstract, with each submission having a maximum length of 400 words.
 
