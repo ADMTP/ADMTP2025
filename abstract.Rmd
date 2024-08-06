@@ -48,7 +48,7 @@ For the ADMTP Workshop 2025, we welcome contributions to any of the following st
 
 <ol>
 
-<li><b>Research/methodology</b> -- statistical methodology and their application to adaptive designs for clinical trials, including multiple testing procedures. We particularly welcome contributions on the topics of a) early phase trials and b) software for adaptive desings</li> <br>
+<li><b>Research/methodology</b> -- statistical methodology and their application to adaptive designs for clinical trials, including multiple testing procedures. We particularly welcome contributions on the topics of a) early phase trials and b) software for adaptive designs.</li> <br>
 
 <li><b>Real-life case studies</b> -- practical examples of the challenges of implementing adaptive designs in real-life. This could include issues around communicating the design and results of adaptive designs to both clinicians and patients.</li> <br>
 
@@ -60,7 +60,7 @@ In the abstract submission process, authors are requested to select up to three 
 
 All abstracts must be submitted online using the link above. Each abstract submission must include the title, list of authors with affiliations and abstract, with each submission having a maximum length of 400 words.
 
-<br><br>
+<br>
 
 ## Evaluation
 
