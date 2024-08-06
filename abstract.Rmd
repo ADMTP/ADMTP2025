@@ -1,0 +1,75 @@
+---
+title: "Abstract submission"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<!-- <style type="text/css"> -->
+
+<!-- body { -->
+
+<!--  background-image: url("coming_soon.jpg"); -->
+
+<!--  background-position: center top; -->
+
+<!--  background-size: 100% auto; -->
+
+<!-- } -->
+
+<!-- </style>  -->
+
+```{=html}
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+```
+<!-- ![](images/coming_soon3.gif){width=100%} -->
+
+## Deadline
+
+<hr>
+
+The organisers invite abstracts for contributed oral presentations for the Adaptive Designs and Multiple Testing Procedures (ADMTP) Workshop 2025.
+
+Abstracts may be submitted online until <b><font color="#ff0000">31 October 2024</font></b> at this [**link**].
+
+<br>
+
+## Topics
+
+<hr>
+
+For the ADMTP Workshop 2025, we welcome contributions to any of the following streams:
+
+<ol>
+
+<li><b>Research/methodology</b> -- statistical methodology and their application to adaptive designs for clinical trials, including multiple testing procedures. We particularly welcome contributions on the topics of a) early phase trials and b) software for adaptive desings</li> <br>
+
+<li><b>Real-life case studies</b> -- practical examples of the challenges of implementing adaptive designs in real-life. This could include issues around communicating the design and results of adaptive designs to both clinicians and patients.</li> <br>
+
+<li><b>Discussion session</b> -- a hypothetical clinical research question (based on a real-world example) will be posed. We're interested in how you would go about answering the question using a clinical trial (adaptive or otherwise)! What solutions might there be and what are the pros/cons? Further details coming soon!</li>
+
+</ol><br>
+<!-- -->
+In the abstract submission process, authors are requested to select up to three methodological topics and one application area from the list above that are most relevant to the abstract. The number of oral abstract submissions with the same presenting author is limited to three (i.e., one max for each stream).
+
+All abstracts must be submitted online using the link above. Each abstract submission must include the title, list of authors with affiliations and abstract, with each submission having a maximum length of 400 words.
+
+<br><br>
+
+## Evaluation
+
+<hr>
+
+All submitted abstracts will be reviewed by the Scientific Committee and presenting authors will be informed of the status of their abstract in **November 2024**.
+
+```{=html}
+<!-- All accepted contributed oral presentations will be assigned to a 15-minute slot within a particular scientific
+session. All presenting authors must have registered for the conference before the registration deadline date for
+their presentation to be included in the conference program. -->
+```

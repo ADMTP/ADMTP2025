@@ -1,0 +1,12 @@
+name: "ADMTP 2025"
+output_dir: "."
+
+navbar:
+  title: "ADMTP 2025"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Abstract submission"
+      href: abstract.html
+output:
+  html_document:
