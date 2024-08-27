@@ -58,7 +58,7 @@ For the ADMTP Workshop 2025, we welcome contributions to any of the following st
 
 <em>The current plan is to have a first interim analysis (IA 1) after n<sub>1</sub> patients had a follow-up of at least 12 months. Another interim analysis (IA 2) is planned when biomarker data is available for n<sub>2</sub> patients. The biomarker EP is measured 3 months after randomization. The final analysis should take place when n<sub>3</sub> patients have been followed up for at least 6 months.</em>
 
-<em>Question 1: How do we best control the FWER?</em>
+<em>Question 1: How do we best control the familywise error rate (FWER)?</em>
 
 <em>Question 2: Assume that recruitment was much faster than expected and that</em>
 
