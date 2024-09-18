@@ -1,0 +1,93 @@
+---
+title: "Accommodation"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<!-- <style type="text/css"> -->
+
+<!-- body { -->
+
+<!--  background-image: url("coming_soon.jpg"); -->
+
+<!--  background-position: center top; -->
+
+<!--  background-size: 100% auto; -->
+
+<!-- } -->
+
+<!-- </style>  -->
+
+```{=html}
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+```
+<!-- ![](images/coming_soon3.gif){width=100%} -->
+
+## Hotels in Regensburg
+
+<hr>
+
+<ul>
+
+<li><b>INCLUDiO Regensburgs erstes Inklusionshotel</b><br>
+<em>Price per room starting at 91 EUR</em><br>
+Hermann-Höcherl-Straße 2<br>
+93055 Regensburg<br>
+Tel.: +49 (0) 941 788328-0<br>
+Email: includio.regensburg@johanniter.de
+</li> <br>
+
+<li><b>B & B Hotel</b><br>
+<em>Price per room starting at 59 EUR</em><br>
+Landshuter-Straße 111<br>
+93053 Regensburg<br>
+Tel.: +49 (0) 941 78491-0	<br>
+Email: regensburg@hotelbb.com
+</li> <br>
+
+<li><b>Bischofshof am Dom	</b><br>
+<em>Price per room starting at 89 EUR</em><br>
+Krauterermarkt 3<br>
+93047 Regensburg<br>
+Tel.: +49 (0) 941 5846-0<br>
+Email: info@hotel-bischofshof.de<br>
+<a href="https://www.hotel-bischofshof.de/">www.hotel-bischofshof.de/</a>
+</li> <br>
+
+<li><b>Elaya Regensburg City Center</b><br>
+<em>Price per room starting at 83 EUR</em><br>
+Maximilanstraße 22<br>
+93047 Regensburg<br>
+Tel.: +49 (0) 941 2060040<br>
+Email: regensburg-city-center@elaya-hotels.com<br>
+<a href = "https://www.elaya-hotels.com/regensburg-city-center/">www.elaya-hotels.com/regensburg-city-center</a>
+</li> <br>
+
+
+<li><b>Hotel Orphée Regensburg</b><br>
+<em>Price per room starting at 130 EUR</em><br>
+Untere Bachgasse 8<br>
+93047 Regensburg<br>
+Tel.: +49 (0) 941 596020<br>
+Email: info@hotel-orphee.de<br>
+<a href="https://hotel-orphee.de">https://hotel-orphee.de</a>
+</li> <br>
+
+
+<li><b>ibis Hotel Regensburg City	</b><br>
+<em>Price per room starting at 82 EUR</em><br>
+Furthmayrstraße 1<br>
+93053 Regensburg<br>
+Tel.: +49 (0) 941 78040<br>
+<a href="https://all.accor.com/a/en.html">https://all.accor.com/a/en.html</a>
+
+</li> <br>
+
+</ul><br>

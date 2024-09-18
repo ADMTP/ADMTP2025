@@ -8,5 +8,12 @@ navbar:
       href: index.html
     - text: "Abstract submission"
       href: abstract.html
+    - text: "Conference info"
+      menu:
+      - text: "Registration"
+        href: registration.html
+      - text: "Accommmodation"
+        href: accommodation.html
+      
 output:
   html_document:
