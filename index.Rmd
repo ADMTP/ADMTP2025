@@ -70,8 +70,6 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **When:** The workshop will run from 26th-27th February 2025.
 
-<!-- **Invited Speakers:** We are delighted to announce that **Prof. XXX** (University of XXX) and **Dr. XXX** (XXX) will present as invited speakers. The workshop will also feature an invited session on XXX. -->
-
 
 **Short course:** There will be a pre-workshop short course on *Bayesian Adaptive Trials* from 24th-25th February 2025. 
 
@@ -79,7 +77,7 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **Registration:** Details TBC.
 
-**Scientific and Organising Committee:** David Robertson (MRC Biostatistics Unit, University of Cambridge), Thomas Jaki (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), Cornelia Kunz (Boehringer-Ingelheim), Marta Bofill Roig (Medical University of Vienna).
+**Scientific and Organising Committee:** David Robertson (MRC Biostatistics Unit, University of Cambridge), Thomas Jaki (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), Cornelia Kunz (Boehringer-Ingelheim), Marta Bofill Roig (Universitat Politècnica de Catalunya - BarcelonaTech).
 
 **Contact:** If you have any questions about the workshop, please e-mail [David Robertson](mailto:david.robertson@mrc-bsu.cam.ac.uk).
 
