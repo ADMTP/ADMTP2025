@@ -36,13 +36,13 @@ h1.title {
 - **Registration Opens:** 15th October 2024
 - **Registration Deadline:** 1st February 2025
 
-<br><br>
+<br>
 
 ## Registration Process
 
 <hr>
 
-Registration for the conference and short course is now open! To register, please fill out the [Registration Form](https://www.conftool.org/admtp2025/) before the deadline. 
+Registration for the conference and short course is now open! **To register, please fill out the [Registration Form](https://www.conftool.org/admtp2025/) before the deadline.** 
 <!-- Registration is free of charge, but a deposit of 50 € will be required before the conference. -->
 
 **Conference Registration fees:** €50
@@ -54,7 +54,7 @@ Registration for the conference and short course is now open! To register, pleas
   <li>Postgraduate Student Registration: €250.00</li>
 </ul>
 
-<br><br>
+<br>
 
 ## Payment Instructions
 
@@ -62,7 +62,7 @@ Registration for the conference and short course is now open! To register, pleas
 
 After completing the registration form, you will receive an email with payment instructions. Please ensure that the payment is made by the specified deadline to secure your registration.
 
-<br><br>
+<br>
 
 ## Contact Information
 
