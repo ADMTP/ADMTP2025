@@ -29,10 +29,45 @@ h1.title {
 </style>
 ```
 
-<img id="coming" src="images/coming_soon3.gif" alt="Coming Soon" width="300" height="300">
-<style type="text/css">
-    #coming {
-        display: block;
-        margin-left: auto;
-        margin-right: auto }
-</style>
+## Registration Dates
+
+<hr>
+
+- **Registration Opens:** 15th October 2024
+- **Registration Deadline:** 1st February 2025
+
+<br><br>
+
+## Registration Process
+
+<hr>
+
+Registration for the conference and short course is now open! To register, please fill out the [Registration Form](https://www.conftool.org/admtp2025/) before the deadline. 
+<!-- Registration is free of charge, but a deposit of 50 € will be required before the conference. -->
+
+**Conference Registration fees:** €50
+
+**Bayesian Adaptive Trials [short course](https://admtp.github.io/ADMTP2025/course.html) registration fees**
+<ul>
+  <li>Industry/Commercial Registration: €600.00</li>
+  <li>Academic/Public sector/Charity Registration: €450.00</li>
+  <li>Postgraduate Student Registration: €250.00</li>
+</ul>
+
+<br><br>
+
+## Payment Instructions
+
+<hr>
+
+After completing the registration form, you will receive an email with payment instructions. Please ensure that the payment is made by the specified deadline to secure your registration.
+
+<br><br>
+
+## Contact Information
+
+<hr>
+
+If you have any questions or need further assistance regarding registration, please contact us at [david.robertson@mrc-bsu.cam.ac.uk](mailto:david.robertson@mrc-bsu.cam.ac.uk).
+
+We look forward to welcoming you to the conference!

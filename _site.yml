@@ -12,6 +12,10 @@ navbar:
       menu:
       - text: "Registration"
         href: registration.html
+      - text: "Short course"
+        href: course.html
+      - text: "Conference venue"
+        href: venue.html
       - text: "Accommmodation"
         href: accommodation.html
       
