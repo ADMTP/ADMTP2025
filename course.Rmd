@@ -33,7 +33,7 @@ h1.title {
 
 **24th-25th February 2025** <br/>
 
-**Course tutors**: [Thomas Jaki](https://www.mrc-bsu.cam.ac.uk/staff/thomas-jaki) (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), [Pavel Mozgunov](https://www.mrc-bsu.cam.ac.uk/staff/pavel-mozgunov) (MRC Biostatistics Unit, University of Cambridge) and Libby Daniels (MRC Biostatistics Unit, University of Cambridge) <br/>
+**Course tutors**: [Thomas Jaki](https://www.mrc-bsu.cam.ac.uk/staff/thomas-jaki) (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), [Pavel Mozgunov](https://www.mrc-bsu.cam.ac.uk/staff/pavel-mozgunov) (MRC Biostatistics Unit, University of Cambridge) and Libby Daniells (MRC Biostatistics Unit, University of Cambridge) <br/>
 
 **Course summary**: Bayesian methods allow prior information to be formally incorporated and updated when new data become available and while such approaches are now routinely used in dose-finding trials, their use for other trials is still rare. This two-day short course will provide an introduction to Bayesian methods with applications to clinical trials. <br/>
 
