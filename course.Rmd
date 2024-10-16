@@ -33,7 +33,7 @@ h1.title {
 
 **24th-25th February 2025** <br/>
 
-**Course tutors**: [Prof Thomas Jaki](https://www.mrc-bsu.cam.ac.uk/staff/thomas-jaki) (University of Regensburg and MRC Biostatistics Unit, University of Cambridge) and [Dr Pavel Mozgunov](https://www.mrc-bsu.cam.ac.uk/staff/pavel-mozgunov) (MRC Biostatistics Unit, University of Cambridge) <br/>
+**Course tutors**: [Thomas Jaki](https://www.mrc-bsu.cam.ac.uk/staff/thomas-jaki) (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), [Pavel Mozgunov](https://www.mrc-bsu.cam.ac.uk/staff/pavel-mozgunov) (MRC Biostatistics Unit, University of Cambridge) and Libby Daniels (MRC Biostatistics Unit, University of Cambridge) <br/>
 
 **Course summary**: Bayesian methods allow prior information to be formally incorporated and updated when new data become available and while such approaches are now routinely used in dose-finding trials, their use for other trials is still rare. This two-day short course will provide an introduction to Bayesian methods with applications to clinical trials. <br/>
 
@@ -41,5 +41,12 @@ The first day will introduce the fundamentals of Bayesian statistics and discuss
 
 On the second day, adaptive elements that allow modification to the design based on accruing data will be added to Bayesian clinical trials. Two special topics of (i) using historical control data, and (ii) precision medicine trials will also be covered. <br/>
 
-The course will be a mix of lectures and practical session during which the attendees will apply learned methods in problems motivated by real clinical trials. 
+The course will be a mix of lectures and practical session during which the attendees will apply learned methods in problems motivated by real clinical trials. <br/>
+
+**Course fees**
+<ul>
+  <li>Industry/Commercial Registration: €600.00</li>
+  <li>Academic/Public sector/Charity Registration: €450.00</li>
+  <li>Postgraduate Student Registration: €250.00</li>
+</ul>
  
