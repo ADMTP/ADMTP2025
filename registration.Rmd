@@ -34,6 +34,7 @@ h1.title {
 <hr>
 
 - **Registration Opens:** 15th October 2024
+- **Registration Deadline (for speakers):** 12th January 2025
 - **Registration Deadline:** 1st February 2025
 
 <br>
