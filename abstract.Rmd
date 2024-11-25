@@ -34,17 +34,13 @@ h1.title {
 
 <hr>
 
-The organisers invite abstracts for contributed oral presentations for the Adaptive Designs and Multiple Testing Procedures (ADMTP) Workshop 2025.
-
-Abstracts may be submitted online until <b><font color="#ff0000">3rd November 2024</font></b> at this [**link**](https://www.conftool.org/admtp2025).
+Abstract submissions are now closed.
 
 <br>
 
 ## Topics
 
 <hr>
-
-For the ADMTP Workshop 2025, we welcome contributions to any of the following streams:
 
 <ol>
 
@@ -68,22 +64,5 @@ For the ADMTP Workshop 2025, we welcome contributions to any of the following st
 
 <em> What are the implications on the FWER and the design overall? </em>
 
-</ol><br>
-<!-- -->
-In the abstract submission process, authors are requested to select one of the  streams from this list that are most relevant to the abstract. The number of oral abstract submissions with the same presenting author is limited to three (i.e., one max for each stream).
+</ol>
 
-All abstracts must be submitted online using the link above. Each abstract submission must include the title, list of authors with affiliations and abstract, with each submission having a maximum length of 400 words.
-
-<br>
-
-## Evaluation
-
-<hr>
-
-All submitted abstracts will be reviewed by the Scientific Committee and presenting authors will be informed of the status of their abstract in **November 2024**.
-
-```{=html}
-<!-- All accepted contributed oral presentations will be assigned to a 15-minute slot within a particular scientific
-session. All presenting authors must have registered for the conference before the registration deadline date for
-their presentation to be included in the conference program. -->
-```

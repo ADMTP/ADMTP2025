@@ -6,18 +6,18 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Abstract submission"
-      href: abstract.html
+    - text: "Registration"
+      href: registration.html
+    - text: "Short course"
+      href: course.html
     - text: "Conference info"
       menu:
-      - text: "Registration"
-        href: registration.html
-      - text: "Short course"
-        href: course.html
       - text: "Conference venue"
         href: venue.html
       - text: "Accommmodation"
         href: accommodation.html
+      - text: "Abstract submission"
+        href: abstract.html
       
 output:
   html_document:
