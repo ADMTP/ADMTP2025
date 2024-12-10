@@ -10,6 +10,8 @@ navbar:
       href: registration.html
     - text: "Short course"
       href: course.html
+    - text: "Program overview"
+      href: ADMTP_2025_program.pdf
     - text: "Conference info"
       menu:
       - text: "Conference venue"
@@ -18,6 +20,8 @@ navbar:
         href: accommodation.html
       - text: "Abstract submission"
         href: abstract.html
+    - text: "Social events"
+      href: social.html
       
 output:
   html_document:

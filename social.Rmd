@@ -1,0 +1,57 @@
+---
+title: "Social events"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<!-- <style type="text/css"> -->
+
+<!-- body { -->
+
+<!--  background-image: url("coming_soon.jpg"); -->
+
+<!--  background-position: center top; -->
+
+<!--  background-size: 100% auto; -->
+
+<!-- } -->
+
+<!-- </style>  -->
+
+```{=html}
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+```
+<!-- ![](images/coming_soon3.gif){width=100%} -->
+
+## City tour of Regensburg
+
+You are welcome to take part in a **free guided tour** of Regensburg historical town centre, either before or after the workshop.
+
+There will be two options for the tour (timing TBC):
+
+<ul>
+
+<li>**Tuesday 25th February** from 17.30 - 19.30
+</li>
+
+<li>**Friday 28th February** from 9.00 - 11.00
+</li>
+
+</ul>
+
+Further details and sign up will be announced shortly.
+
+<br>
+
+## Workshop dinner
+
+There will be a workshop dinner on **Thursday 27th February** at 19.00 (timing TBC). Payment is the responsibility of the participant.
+
+The venue and sign up details will be announced shortly.
