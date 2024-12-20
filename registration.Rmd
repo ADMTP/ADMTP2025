@@ -33,7 +33,6 @@ h1.title {
 
 <hr>
 
-- **Registration Opens:** 15th October 2024
 - **Registration Deadline (for speakers):** 12th January 2025
 - **Registration Deadline:** 1st February 2025
 
@@ -64,7 +63,7 @@ Note that it is possible to register just for the short course itself without re
 
 <hr>
 
-After completing the registration form, you will receive an email with payment instructions. Please ensure that the payment is made by the specified deadline to secure your registration.
+After completing the registration form, you will receive an email with payment instructions. Please ensure that the payment is made by the specified deadline to secure your registration. Also, when using the online payment system please use the participant name (rather than company/institution name) to help with payment confirmation. 
 
 <br>
 
