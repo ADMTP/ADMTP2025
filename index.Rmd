@@ -37,6 +37,12 @@ h1.title {
   height: auto;
 }
 
+.sponsor-level-gold {
+  text-align: center;
+  margin-bottom: 30px;
+  background-color: #D4AF37
+}
+
 .organizers {
   text-align: center;
   margin-bottom: 30px;
@@ -84,6 +90,26 @@ We are delighted to announce the next annual workshop of the joint working group
 
 $$\\[0.1cm]$$
 
+### Sponsors
+
+<hr>
+
+**We gratefully acknowledge sponsorship from** [**instats.org**](https://instats.org/?utm_source=ADMTP2025)
+
+<!-- ## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span> -->
+
+<!-- <hr> -->
+
+```{=html}
+<div class="sponsor-level-gold">
+    <div class="sponsor">
+        <a href="https://instats.org/?utm_source=ADMTP2025"; target=_blank">
+        <img src="logos/instats.jpg" alt="instats.org" width="115">
+        </a>
+    </div>
+</div>
+```
+
 ### Organisers
 
 <hr>
@@ -112,3 +138,5 @@ $$\\[0.1cm]$$
     </div>
 </div>
 ```
+
+
