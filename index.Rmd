@@ -94,20 +94,18 @@ $$\\[0.1cm]$$
 
 <hr>
 
-**We gratefully acknowledge sponsorship from** [**instats.org**](https://instats.org/?utm_source=ADMTP2025)
+We gratefully acknowledge sponsorship from [**Instats**](https://instats.org/?utm_source=ADMTP2025)
 
 <!-- ## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span> -->
 
 <!-- <hr> -->
 
 ```{=html}
-<div class="sponsor-level-gold">
     <div class="sponsor">
-        <a href="https://instats.org/?utm_source=ADMTP2025"; target=_blank">
-        <img src="logos/instats.jpg" alt="instats.org" width="115">
+        <a href="https://instats.org/?utm_source=ADMTP-2025"; target=_blank">
+        <img src="logos/instats.png" alt="instats.org" width="250">
         </a>
     </div>
-</div>
 ```
 
 ### Organisers
