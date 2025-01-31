@@ -12,9 +12,9 @@ navbar:
       href: course.html
     - text: "Program overview"
       href: ADMTP_2025_program.pdf
-    - text: "Conference info"
+    - text: "Workshop info"
       menu:
-      - text: "Conference venue"
+      - text: "Workshop venue"
         href: venue.html
       - text: "Accommmodation"
         href: accommodation.html

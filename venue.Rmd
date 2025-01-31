@@ -1,5 +1,5 @@
 ---
-title: "Conference venue"
+title: "Workshop venue"
 output:
   html_document:
     theme: cosmo
