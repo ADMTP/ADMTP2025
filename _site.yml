@@ -10,7 +10,7 @@ navbar:
       href: registration.html
     - text: "Short course"
       href: course.html
-    - text: "Program overview"
+    - text: "Scientific program"
       href: ADMTP_2025_program.pdf
     - text: "Workshop info"
       menu:

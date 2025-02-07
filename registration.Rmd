@@ -33,8 +33,7 @@ h1.title {
 
 <hr>
 
-- **Registration Deadline (for speakers):** 12th January 2025
-- **Registration Deadline:** 1st February 2025
+Registration for the workshop is now closed.
 
 <br>
 
@@ -42,8 +41,7 @@ h1.title {
 
 <hr>
 
-Registration for the conference and short course is now open! **To register, please fill out the [Registration Form](https://www.conftool.org/admtp2025/) before the deadline.** 
-<!-- Registration is free of charge, but a deposit of 50 € will be required before the conference. -->
+Registration for the conference and short course is now closed.
 
 **Conference Registration fees:** €50
 
@@ -53,8 +51,6 @@ Registration for the conference and short course is now open! **To register, ple
   <li>Academic/Public sector/Charity Registration: €450</li>
   <li>Postgraduate Student Registration: €250</li>
 </ul>
-
-Note that it is possible to register just for the short course itself without registering for the workshop.
 
 <br>
 
