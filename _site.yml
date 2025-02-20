@@ -6,22 +6,22 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Registration"
-      href: registration.html
+    - text: "Scientific program"
+      href: ADMTP_2025_program.pdf      
     - text: "Short course"
       href: course.html
-    - text: "Scientific program"
-      href: ADMTP_2025_program.pdf
+    - text: "Workshop venue"
+      href: venue.html
     - text: "Workshop info"
       menu:
-      - text: "Workshop venue"
-        href: venue.html
       - text: "Accommmodation"
         href: accommodation.html
       - text: "Abstract submission"
         href: abstract.html
-    - text: "Social events"
-      href: social.html
+      - text: "Registration"
+        href: registration.html
+      - text: "Social events"
+        href: social.html
       
 output:
   html_document:
